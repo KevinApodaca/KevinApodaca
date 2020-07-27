@@ -9,4 +9,4 @@
 
 I am a web developer studying Computer Science at the University of Texas at El Paso.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinApodaca)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinApodaca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
