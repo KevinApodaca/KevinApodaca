@@ -1,5 +1,9 @@
 ### Hi, I'm Kevin Apodaca :computer: 👋
 
+<p align="center">
+  <img src="IMG_7448.jpg" width=400>
+  </p>
+
 <!--
 **KevinApodaca/KevinApodaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -8,6 +12,7 @@
 - ⚡ Fun fact: I don't drink Coffee or eat Pizza...
 
 I am a web developer studying Computer Science at the University of Texas at El Paso.
+<br><br>
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinApodaca&hide=contribs,stars&show_icons=true&theme=cobalt)](https://kevinapodaca.github.io)
 
