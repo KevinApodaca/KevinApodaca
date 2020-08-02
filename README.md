@@ -1,6 +1,6 @@
 ### Hi, I'm Kevin Apodaca :computer: 👋
 
-<p align="center">
+<p>
   <img src="IMG_7448.jpg" width=100>
   </p>
 
