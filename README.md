@@ -1,7 +1,7 @@
 ### Hi, I'm Kevin Apodaca :computer: 👋
 
 <p align="center">
-  <img src="IMG_7448.jpg" width=400>
+  <img src="IMG_7448.jpg" width=100>
   </p>
 
 <!--
