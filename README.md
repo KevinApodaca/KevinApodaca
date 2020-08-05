@@ -10,6 +10,6 @@
 I am a web developer studying Computer Science at the University of Texas at El Paso.
 <br><br>
 
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinApodaca&hide=contribs&show_icons=true&theme=cobalt)]()
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinApodaca&hide=contribs&show_icons=true&theme=cobalt)](https://github.com/KevinApodaca)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinApodaca&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinApodaca&layout=compact)](https://github.com/KevinApodaca)
