@@ -12,4 +12,4 @@ I am a web developer studying Computer Science at the University of Texas at El 
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinApodaca&show_icons=true&theme=react&hide_border=true&custom_title=Kevin's+TLDR+🦄)](https://github.com/KevinApodaca)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinApodaca&layout=compact&langs_count=8)](https://github.com/KevinApodaca)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinApodaca&layout=compact&langs_count=8&theme=react)](https://github.com/KevinApodaca)
