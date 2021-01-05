@@ -3,11 +3,11 @@
 <!--
 **KevinApodaca/KevinApodaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on a mobile app for a real estate company, and an e-commerce app for an artist
-- 🌱 I’m currently learning AWS Amplify
+- 🔭 I’m currently working on a mobile app for a real estate company, and an e-commerce site.
+- 🌱 I’m currently learning Ansible and Artifactory
 - ⚡ Fun fact: I don't drink Coffee...
 
-I am a web developer studying Computer Science at the University of Texas at El Paso.
+I am a web developer and Computer Science graduate from the University of Texas at El Paso.
 <br><br>
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinApodaca&show_icons=true&theme=react&hide_border=true&custom_title=Kevin's+TLDR+🦄)](https://github.com/KevinApodaca)
