@@ -1,5 +1,6 @@
 # Hi, I'm Kevin Apodaca <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=35210520.35210520)
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 <br>
 <!--
 **KevinApodaca/KevinApodaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
