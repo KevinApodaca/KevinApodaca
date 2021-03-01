@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on a mobile app for a real estate company, and an e-commerce site.
 - 🌱 I’m currently learning Ansible and Artifactory
 - ⚡ Fun fact: I don't drink Coffee...
+
 <h2> My Current Tech Stack </h2>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
@@ -22,7 +23,9 @@
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'>
-<hr>
+<br><br>
+
+<h2> Github Stats 🚀</h2>
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=KevinApodaca&show_icons=true&theme=react&hide_border=true&custom_title=Kevin's+TLDR+⚡️)](https://github.com/KevinApodaca)
 
