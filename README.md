@@ -6,8 +6,8 @@
 **KevinApodaca/KevinApodaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h2> About Me</h2>
 
-- 🔭 I’m currently working on a mobile app for a real estate company, and an e-commerce site.
-- 🌱 I’m currently learning Ansible and Artifactory
+- 🔭 I’m currently working on a website redesign for a local business
+- 🌱 I’m currently learning NestJS
 - ⚡ Fun fact: I don't drink Coffee...
 
 <h2> My Current Tech Stack </h2>
